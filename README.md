@@ -1,2 +1,5 @@
 # mCube
-mCube wordpress theme, created with bootstrap
+Custom wordpress theme
+	home page with square
+
+crated with bootstrap 
