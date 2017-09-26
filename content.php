@@ -46,4 +46,19 @@
 
 
           </div>
+
+            <div class="row">
+
+	           <div class="starter-template">
+		          <h2>latest article : </h3>
+
+		       </div>
+		       <div class="blog-post">
+					<h3 class="blog-post-title"><?php the_title(); ?></h2>
+					<p class="blog-post-meta"><?php the_date(); ?> by <a href="#"><?php the_author(); ?></a></p>
+				 <?php the_content(); ?>
+				</div>
+			</div>
         </div>
+
+      
