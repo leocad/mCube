@@ -1,8 +1,10 @@
+        
+
         <div class="container">
             <div class="row">
 
 	           <div class="starter-template">
-		          <h1>Welcome on the jojo website </h1>
+		          <h1>Welcome on the <?php echo get_bloginfo( 'name' ); ?> </h1>
 		          <p class="lead"> Here you can find a small selection of my different theme</p>
 		     </div>
 
